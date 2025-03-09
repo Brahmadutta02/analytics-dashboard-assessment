@@ -1,0 +1,11 @@
+VIN (1-10),County,City,State,Model Year,Make,Model,Electric Vehicle Type,Clean Alternative Fuel Vehicle (CAFV) Eligibility,Electric Range
+1234567890,King,Seattle,WA,2022,Tesla,Model 3,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,358
+2345678901,Pierce,Tacoma,WA,2021,Chevrolet,Bolt EV,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,259
+3456789012,Snohomish,Everett,WA,2023,Ford,Mustang Mach-E,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,312
+4567890123,King,Bellevue,WA,2022,Nissan,Leaf,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,226
+5678901234,Pierce,Puyallup,WA,2021,Tesla,Model Y,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,330
+6789012345,King,Redmond,WA,2023,Hyundai,IONIQ 5,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,303
+7890123456,Snohomish,Edmonds,WA,2022,Kia,EV6,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,310
+8901234567,King,Kirkland,WA,2021,Volkswagen,ID.4,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,260
+9012345678,Pierce,Lakewood,WA,2023,Tesla,Model S,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,405
+0123456789,King,Renton,WA,2022,Rivian,R1T,Battery Electric Vehicle (BEV),Clean Alternative Fuel Vehicle Eligible,314 
