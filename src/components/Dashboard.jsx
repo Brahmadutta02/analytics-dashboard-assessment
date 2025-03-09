@@ -784,7 +784,7 @@ const Dashboard = () => {
             <ElectricCarIcon sx={{ fontSize: 40 }} />
             <Box>
               <Typography variant="h4" component="h1" sx={{ fontWeight: 'bold' }}>
-                EV Population Dashboard
+              Analytics Dashboard Assessment
               </Typography>
               <Typography variant="subtitle1" sx={{ opacity: 0.8 }}>
                 Real-time analytics of electric vehicle distribution
